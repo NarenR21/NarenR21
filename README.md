@@ -4,4 +4,4 @@
 - 📫 How to reach me on  
                         email: narenram21@outlook.com
                                ram6@purdue.edu
-                        discord: nram1500#5814
+                        discord: nram1500
