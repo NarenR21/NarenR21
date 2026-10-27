@@ -3,4 +3,4 @@
 - I’m currently learning R and Python
 - 📫 How to reach me on  
                         email: narenram21@outlook.com
-                               ram6@purdue.edu
+
